@@ -1,16 +1,16 @@
-# Air Passengers Time Series Analysis
+# Air Passengers Analysis
 
 ## Project Overview
 
 This project analyzes the famous AirPassengers dataset using Python.
 
-The analysis includes data preprocessing, time series visualization, monthly trend analysis, and regression modeling using Support Vector Regression (SVR).
+The analysis includes data preprocessing, visualization, monthly trend analysis, and Support Vector Regression (SVR) modeling to examine passenger patterns over time.
 
 ---
 
 ## Dataset
 
-The dataset contains monthly airline passenger counts over several years.
+The dataset contains monthly international airline passenger numbers from 1949 to 1960.
 
 ---
 
@@ -27,23 +27,21 @@ The dataset contains monthly airline passenger counts over several years.
 
 ## Project Steps
 
-- Import dataset
-- Clean and preprocess data
-- Convert dates
-- Visualize passenger trends
-- Analyze monthly changes
-- Calculate monthly averages
-- Train an SVR regression model
-- Compare predictions with original data
+- Imported and cleaned the dataset
+- Converted date and passenger columns
+- Visualized passenger trends over time
+- Calculated month-to-month passenger changes
+- Analyzed average passengers by month
+- Applied Support Vector Regression (SVR)
+- Compared actual and predicted values
 
 ---
 
 ## Skills Demonstrated
 
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Time Series Analysis
 - Data Visualization
+- Time Series Analysis
 - Machine Learning
 - Regression
 - Feature Engineering
